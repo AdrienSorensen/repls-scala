@@ -1,11 +1,4 @@
-| __ \ | |
-| |) | | | ___
-| _ // _ | |/ _ \
-| | \ \ () | | __/
-|| __/|_|_|
 Scala REPLs: Int & MultiSet
-
-# Scala REPLs
 
 A modular Scala REPL framework that supports **integers** and **multisets**, with parsing, evaluation, variable assignment, and expression simplification.
 
